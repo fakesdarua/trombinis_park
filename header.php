@@ -13,7 +13,7 @@
     }
 
     header {
-        background: #e040fb;
+        background-image: linear-gradient(to bottom, #c435dd, #e040fb);
         width: 100%;
     }
 
