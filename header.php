@@ -62,7 +62,7 @@
 
     ul li a:hover {
         color: #d500f9;
-        background :#f8d7fd;
+        background :#f7e4fa;
         transition: 0.2s ease-in;
     }
 
